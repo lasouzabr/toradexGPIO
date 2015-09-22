@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.153185933/PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.153185933/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.153185933/PATH/value=/home/leonardo/gcc-linaro/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/usr/games\:/usr/local/games
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.153185933/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.153185933/appendContributed=true
